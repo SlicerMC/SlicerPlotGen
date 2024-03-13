@@ -1,0 +1,12 @@
+name: SlicerPlotGen
+version: '${project.version}'
+main: com.malcolmjh.slicerplotgen.SlicerPlotGen
+api-version: '1.20'
+commands:
+  claim:
+    usage: /<command>
+    description: Claim Slice if not already claimed.
+    permission: slicer.plot.claim
+permissions:
+  slicer.staff.slicehelp:
+    description: Claim Slice if not already claimed.

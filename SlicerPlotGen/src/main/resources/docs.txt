@@ -1,0 +1,10 @@
+API:
+    Paths:
+    Get the xpos (Needs a player UUID): /get_player_id_by_xpos?xpos=<xpos>
+    Get the player UUID (Needs a block xpos): /get_xpos_by_player_id?playerId=<playerUUID>
+    Send the "claim" requset to the API /set_slice_owner_by_xpos?xpos=<xpos>&playerId=<playerUUID>
+
+    Other Web Stuff:
+    Port: 8080
+    Addr: api.slicer.malcolmjh.com
+    Addr & Port: api.slicer.malcolmjh.com:8080
