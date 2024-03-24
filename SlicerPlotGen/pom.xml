@@ -6,7 +6,7 @@
 
     <groupId>com.malcolmjh</groupId>
     <artifactId>SlicerPlotGen</artifactId>
-    <version>1.0-ALPHA</version>
+    <version>1.2-ALPHA</version>
     <packaging>jar</packaging>
 
     <name>SlicerPlotGen</name>
