@@ -8,7 +8,7 @@ We welcome any to contribute to the Slicer Plot Gen. If you wish to do so, pleas
 * All indents are TAB characters, not spaces.
 * Braces for functions/methods/scopes start on one line and end on a new-line (See Code Example A).
 * A scope containing only one statement should be surrounded by braces (See Code Example A).
-* Ternary statements should be used but only where NEEDED.
+* Ternary statements should be used only where NEEDED.
 * Inside a *switch* the *case* and *break* should be on new lines (See Code Example B).
 * Normal String concatenation and the StringBuilder class are favored over String#format().
 * No trailing whitespace.
